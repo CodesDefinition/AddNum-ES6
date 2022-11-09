@@ -1,0 +1,15 @@
+.container {
+  display: block;
+  color: #1976d2;
+}
+.module {
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  justify-content: center;
+  align-items: center;
+  border: 8px solid #1976d2;
+  border-radius: 8px;
+  background-color: #eaeded;
+}
